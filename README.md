@@ -1,3 +1,3 @@
 # Meditation-web-app
-1st project following a project tutorial by DevEd
-fgfgfd
+1st project following the tutorial by Dev Ed on Youtube
+
